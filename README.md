@@ -1,2 +1,3 @@
 # hello-world
-just anothor repository 
+Hi humans!
+ZhouWlnd here, and I enjoy python and want to become a engineer.
